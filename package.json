@@ -1,0 +1,15 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "My super-duper calculator desktop application",
+  "main": "src/index.js",
+  "author": "EasyLim",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^21.1.1",
+    "typescript": "^4.8.4"
+  }
+}
